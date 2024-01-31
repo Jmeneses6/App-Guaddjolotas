@@ -12,6 +12,7 @@ function Cards() {
 
 export default Cards
 
-//!json guajolotas: https://json-lk2y.vercel.app/Guajolotas
-//json Bebidas: https://json-lk2y.vercel.app/Bebidas
-//json Tamales: https://json-lk2y.vercel.app/Tamales
+//! json Guajolotas: https://productos-delta.vercel.app/Guajolotas
+//! json Bebidas: https://productos-delta.vercel.app/Bebidas
+//! json Tamales: https://productos-delta.vercel.app/Tamales
+//! json Usuarios: https://usuarios-peach-tau.vercel.app/Usuarios
