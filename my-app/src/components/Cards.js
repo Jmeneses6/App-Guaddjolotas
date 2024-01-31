@@ -3,16 +3,17 @@ import React from 'react'
 function Cards() {
     return (
         <div>
-            <img src="https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706145429/Guajolotas/Guajolotas.png" alt="Guajolotas" style={{
-                marginTop: "-2rem",
-            }}></img>
+            <div id="cards">
+                <template id="template">
+                    <a href="../index/info.html">
+                        <img src="..." alt="..." id="image"></img>
+                        <h1 id="name">name</h1>
+                        <p id="price"></p>
+                    </a>
+                </template>
+            </div>
         </div>
     )
 }
 
 export default Cards
-
-//! json Guajolotas: https://productos-delta.vercel.app/Guajolotas
-//! json Bebidas: https://productos-delta.vercel.app/Bebidas
-//! json Tamales: https://productos-delta.vercel.app/Tamales
-//! json Usuarios: https://usuarios-peach-tau.vercel.app/Usuarios

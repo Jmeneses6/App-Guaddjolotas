@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Skranji&display=swap');
+
+body {
+    background-color: #f2f2f2;
+    height: 1050px;
+}
+
+#logo {
+    width: 65px;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+}
+
+#car {
+    float: right;
+    margin-top: -14rem;
+    margin-right: 1rem;
+    width: 22px;
+}
+
+#profile {
+    float: right;
+    margin-top: -14.2rem;
+    margin-right: 4rem;
+    width: 28px;
+}
+
+h1 {
+    font-size: 35px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    font-family: 'Inter';
+}
+
+#search {
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+#cards,
+#cardsB,
+#cardsT {
+    background-color: #ffff;
+    border-radius: 20px;
+    height: 550px;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+#cards,
+#cardsB,
+#cardsT,
+:hover {
+    box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.3);
+}
+
+#price {
+    color: #FA4A0C;
+    font-weight: bold;
+    font-family: 'inter';
+    text-align: center;
+    margin-top: -.5rem;
+}
+
+#name {
+    font-family: 'inter';
+    font-size: 17px;
+    text-align: center;
+    margin-top: -4rem;
+}
+
+#image {
+    width: 80px;
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+    padding-right: 5rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#sesionG {
+    text-decoration: underline;
+    color: #FA4A0C;
+    margin-left: 1.5rem;
+    margin-top: 2rem;
+    font-size: 20px;
+    margin-bottom: -1rem;
+}
+
+#sesionB {
+    margin-left: 9rem;
+    margin-top: -1.3rem;
+    font-size: 20px;
+    color: gray;
+}
+
+#sesionT {
+    margin-left: 15rem;
+    margin-top: -2.65rem;
+    font-size: 20px;
+    color: gray;
+}
+
+body{
+    background-color: #f2f2f2;
+}
+
+#return {
+    border-color: transparent;
+    background-color: transparent;
+    font-size: 24px;
+    float: left;
+    margin-top: -.2rem;
+    margin-left: 1rem;
+    margin-right: -2rem;
+}
+
+#car2 {
+    text-align: center;
+    font-size: 22px;
+    margin-left: -1rem;
+    margin-top: 3rem;
+    font-weight: bold;
+    font-family: 'Inter';
+}
+
+#fondo {
+    width: 150px;
+    height: 150px;
+    margin-top: 11rem;
+    margin-left: 6rem;
+}
+
+#msg {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0.5rem;
+    font-weight: bold;
+    font-family: 'Inter';
+
+}
+
+#pay {
+    background-color: #FA4A0C;
+    color: white;
+    border-color: transparent;
+    border-radius: 30px;
+    width: 300px;
+    height: 60px;
+    margin-left: 2rem;
+    margin-top: 7rem;
+    font-size: 17px;
+    font-family: 'Inter'; 
+}
